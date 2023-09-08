@@ -8,20 +8,15 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
-  <div class="min-h-screen bg-gray-100 flex flex-col justify-center">
+  <div class="min-h-screen bg-gray-100 flex flex-col">
     
     <!-- Hero Section -->
     <div class="mx-auto text-center p-4 space-y-8">
       <!-- Logo and Title -->
-      <div class="text-5xl font-bold text-green-600">
-        <span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-blue-500 to-purple-600">
-          GameLeaf
-        </span>
-      </div>
 
       <!-- Description -->
-      <p class="font-light text-lg text-gray-700 mx-auto w-full md:w-2/3">
-        Dive into the world of gaming. Explore, review, and track your video game journey.
+      <p class="font-light text-lg text-gray-700 mx-auto w-full mt-5">
+        Dive into the world of gaming!
       </p>
 
       <!-- CTA Buttons -->
